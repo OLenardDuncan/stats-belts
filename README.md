@@ -4,7 +4,7 @@ Toribash Lua script that shows a custom HUD with special stats, which also shows
 https://imgur.com/a/biMbAv2
 
 * **Design:**
-  * Lenárd Duncan
+  * Lester Lenard Duncan
   * Yoyo
 * **Programming:**
   * Yoyo
